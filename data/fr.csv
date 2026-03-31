@@ -8,24 +8,22 @@ Nice,43.7034,7.2663,France,FR,Provence-Alpes-Côte d’Azur,minor,348085,348085
 Nantes,47.2181,-1.5528,France,FR,Pays de la Loire,admin,323204,323204
 Montpellier,43.6119,3.8772,France,FR,Occitanie,minor,302454,302454
 Strasbourg,48.5833,7.7458,France,FR,Grand Est,admin,291313,291313
+Nancy,48.6936,6.1846,France,FR,Grand Est,minor,104260,104260
+Annecy,45.9160,6.1330,France,FR,Auvergne-Rhône-Alpes,minor,131715,131715
 Lille,50.6278,3.0583,France,FR,Hauts-de-France,admin,236710,236710
 Rennes,48.1147,-1.6794,France,FR,Bretagne,admin,225081,225081
-Toulon,43.1258,5.9306,France,FR,Provence-Alpes-Côte d’Azur,minor,180452,180452
+Le Mans,48.0077,0.1984,France,FR,Pays de la Loire,minor,145004,145004
 Reims,49.2628,4.0347,France,FR,Grand Est,minor,179380,179380
 Saint-Étienne,45.4347,4.3903,France,FR,Auvergne-Rhône-Alpes,minor,172718,172718
+Brest,48.3900,-4.4900,France,FR,Bretagne,minor,139619,139619
 Le Havre,49.4900,0.1000,France,FR,Normandie,minor,166058,166058
 Dijon,47.3167,5.0167,France,FR,Bourgogne-Franche-Comté,admin,159346,159346
-Grenoble,45.1715,5.7224,France,FR,Auvergne-Rhône-Alpes,minor,157477,157477
-Angers,47.4736,-0.5542,France,FR,Pays de la Loire,minor,157175,157175
-Nîmes,43.8383,4.3597,France,FR,Occitanie,minor,148104,148104
+Limoges,45.8353,1.2625,France,FR,Nouvelle-Aquitaine,minor,129760,129760
 Aix-en-Provence,43.5263,5.4454,France,FR,Provence-Alpes-Côte d’Azur,minor,147478,147478
-Clermont-Ferrand,45.7831,3.0824,France,FR,Auvergne-Rhône-Alpes,minor,147327,147327
-Le Mans,48.0077,0.1984,France,FR,Pays de la Loire,minor,145004,145004
-Brest,48.3900,-4.4900,France,FR,Bretagne,minor,139619,139619
+Toulon,43.1258,5.9306,France,FR,Provence-Alpes-Côte d’Azur,minor,180452,180452
 Tours,47.3936,0.6892,France,FR,Centre-Val de Loire,minor,137658,137658
 Amiens,49.8920,2.2990,France,FR,Hauts-de-France,minor,133625,133625
-Annecy,45.9160,6.1330,France,FR,Auvergne-Rhône-Alpes,minor,131715,131715
-Limoges,45.8353,1.2625,France,FR,Nouvelle-Aquitaine,minor,129760,129760
+Grenoble,45.1715,5.7224,France,FR,Auvergne-Rhône-Alpes,minor,157477,157477
 Metz,49.1203,6.1778,France,FR,Grand Est,minor,120874,120874
 Boulogne-Billancourt,48.8352,2.2409,France,FR,Île-de-France,minor,119808,119808
 Perpignan,42.6986,2.8956,France,FR,Occitanie,minor,119656,119656
@@ -34,12 +32,13 @@ Orléans,47.9025,1.9090,France,FR,Centre-Val de Loire,admin,116617,116617
 Rouen,49.4428,1.0886,France,FR,Normandie,admin,114083,114083
 Saint-Denis,48.9356,2.3539,France,FR,Île-de-France,minor,113942,113942
 Montreuil,48.8611,2.4436,France,FR,Île-de-France,,111455,111455
+Clermont-Ferrand,45.7831,3.0824,France,FR,Auvergne-Rhône-Alpes,minor,147327,147327
 Caen,49.1814,-0.3636,France,FR,Normandie,minor,108200,108200
 Argenteuil,48.9500,2.2500,France,FR,Île-de-France,minor,107221,107221
 Mulhouse,47.7500,7.3400,France,FR,Grand Est,minor,106341,106341
-Nancy,48.6936,6.1846,France,FR,Grand Est,minor,104260,104260
 Tourcoing,50.7239,3.1612,France,FR,Hauts-de-France,,99011,99011
 Roubaix,50.6901,3.1817,France,FR,Hauts-de-France,,98892,98892
+Angers,47.4736,-0.5542,France,FR,Pays de la Loire,minor,157175,157175
 Nanterre,48.8988,2.1969,France,FR,Île-de-France,minor,97351,97351
 Vitry-sur-Seine,48.7875,2.3928,France,FR,Île-de-France,,96205,96205
 Créteil,48.7911,2.4628,France,FR,Île-de-France,minor,92989,92989
@@ -74,6 +73,7 @@ Ivry-sur-Seine,48.8078,2.3747,France,FR,Île-de-France,,64001,64001
 Antony,48.7539,2.2975,France,FR,Île-de-France,minor,63232,63232
 Troyes,48.2997,4.0792,France,FR,Grand Est,minor,62782,62782
 La Seyne-sur-Mer,43.1000,5.8830,France,FR,Provence-Alpes-Côte d’Azur,,62763,62763
+Nîmes,43.8383,4.3597,France,FR,Occitanie,minor,148104,148104
 Pantin,48.8966,2.4017,France,FR,Île-de-France,,60800,60800
 Chambéry,45.5700,5.9118,France,FR,Auvergne-Rhône-Alpes,minor,59856,59856
 Neuilly-sur-Seine,48.8881,2.2686,France,FR,Île-de-France,,59267,59267
